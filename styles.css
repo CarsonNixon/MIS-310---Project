@@ -31,6 +31,7 @@
 
 .content-item {
     flex: 1 1 300px;
+    flex-direction: column;
     margin: 10px;
     padding: 20px;
     border: 3px solid black;
