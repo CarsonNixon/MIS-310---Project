@@ -20,7 +20,8 @@
 }
 
 .content-box {
-    display: flex-wrap;
+    display: flex;
+    flex-wrap: wrap;
     background-color: white;
     padding: 25px;
     margin: 30px auto;
