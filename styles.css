@@ -31,3 +31,11 @@ img, iframe {
     display: block;
     margin: 30px auto;
 }
+
+.favorite-teams {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 30px auto;
+    width: 80%;
+}
