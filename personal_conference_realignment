@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <title>My Personal ACC Conference Realignment</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        
+    <main>
+      <section id="one" class="Intro">The ACC</section>
+
+      <section id="two">
+        <img src="" alt="Images/6613_florida_state_seminoles-alternate-2014.png" alt="Florida State Logo">
+      </section>
+
+      <section id="three">
+        <img src="Images/Clemson-University-Athletic-Logo.png" alt="Clemson logo">
+      </section>
+
+      <section id="four">
+        <img src="Images/e0d3236b653b8405d9fda7f064c6b49c.jpg" alt="UVA Logo">
+      </section>
+
+      <section id="five">
+        <img src="Images/georgia_tech_yellow_jackets_logo_alternate_19993919.png" alt="Georgia Tech logo">
+      </section>
+
+      <section id="six">
+        <img src="Images/maryland_terrapins_logo_primary_2006_sportslogosnet-5269.png" alt="Maryland logo">
+      </section>
+
+      <section id="seven">
+        <img src="Images/R (3).jpg" alt="Miami logo">
+      </section>
+
+      <section id="eight">
+        <img src="Images/South-Carolina-Logo.jpg" alt="South Carolina logo">
+      </section>
+
+      <section id="nine">
+        <img src="Images/TNuwdU.jpg" alt="Duke logo">
+      </section>
+
+      <section id="ten">
+        <img src="Images/NC-State-University-Emblema.jpg" alt="NC State logo">
+      </section>
+
+      <section id="eleven">
+        <img src="Images/unc-logo.png" alt="unc logo">
+      </section>
+
+      <section id="twelve">
+        <img src="Images/Virginia_Tech_Hokies_logo.svg.webp" alt="Virginia Tech logo">
+      </section>
+
+      <section id="thirteen">
+        <img src="Images/Wake_Forest_University_Athletic_logo.svg.webp" alt="Wake Forest logo">
+      </section>
+    </main>
+
+    </body>
+</html>
