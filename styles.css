@@ -53,7 +53,7 @@
 
 .team-grid {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-template-rows: 100px repeat(2, 200px);
     gap: 20px;
     width: 90%;
