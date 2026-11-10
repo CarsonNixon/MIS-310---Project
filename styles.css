@@ -71,3 +71,14 @@
     color: white;
     border: 3px solid black;
 }
+
+.team-grid img {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 160px;
+    object-fit: contain;
+    margin: 0;
+}
