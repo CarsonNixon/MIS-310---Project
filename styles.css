@@ -61,7 +61,7 @@
 }
 
 .ACC-Header {
-    grid-column: 1 / -1;
+    grid-column: 1 / 6;
     grid-row: 1;
     display: flex;
     justify-content: center;
